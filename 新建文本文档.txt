@@ -3,3 +3,5 @@ https://blog.csdn.net/real_fool_/category_10818355.html
 computer startup process
 https://zhuanlan.zhihu.com/p/113536449
 https://blog.csdn.net/langeldep/article/details/8788119
+BASH
+https://www.bookstack.cn/read/Advanced-Bash-Scripting-Guide-in-Chinese/README.md
